@@ -145,7 +145,7 @@ const Footer = memo(() => (
           </ul>
         </nav>
       </div>
-      <div className="mt-8 text-center text-sm">&copy; 2023 AI Prep. All rights reserved.</div>
+      <div className="mt-8 text-center text-sm">&copy; 2025 AI Prep. All rights reserved.</div>
     </div>
   </footer>
 ));
